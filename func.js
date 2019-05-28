@@ -1,1 +1,1 @@
-Javascript code oh no somethings wrong with it
+Javascript code that has been fixed
